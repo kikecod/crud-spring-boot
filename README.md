@@ -6,8 +6,8 @@
 API RESTful para gestión de estudiantes con operaciones CRUD (Create, Read, Update, Delete), desarrollada con Spring Boot y Java.
 
 ## 🛠 Tecnologías Utilizadas
-- **Java 17**
-- **Spring Boot 3.1.5**
+- **Java 23**
+- **Spring Boot 3.4.4**
 - **Spring Data JPA** (Persistencia)
 - **H2 Database** (Base de datos en memoria - Desarrollo)
 - **Maven** (Gestión de dependencias)
@@ -15,7 +15,7 @@ API RESTful para gestión de estudiantes con operaciones CRUD (Create, Read, Upd
 
 ## 📋 Requisitos Previos
 Antes de clonar o ejecutar el proyecto, asegúrate de tener instalado:
-1. **JDK 17** ([Descargar](https://adoptium.net/))
+1. **JDK 23** ([Descargar]([https://adoptium.net/](https://www.oracle.com/java/technologies/javase/jdk23-archive-downloads.html)))
 2. **Maven 3.8+** ([Instalar](https://maven.apache.org/install.html))
 3. **Git** ([Instalar](https://git-scm.com/))
 4. **Postman** o similar (Para probar los endpoints)
